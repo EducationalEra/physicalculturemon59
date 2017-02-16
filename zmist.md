@@ -184,16 +184,6 @@
 			                     5 рік вивчення
 			                </a>
 			            </li>
-			            <li class="chapter " data-level="7" data-path="4/6_rik.html">
-			                <a href="4/6_rik.html">
-			                     6 рік вивчення
-			                </a>
-			            </li>
-			            <li class="chapter " data-level="8" data-path="4/7_rik.html">
-			                <a href="4/7_rik.html">
-			                     7 рік вивчення
-			                </a>
-			            </li>
 			            <li class="chapter " data-level="9" data-path="4/orientovni_navchalni_normatyvy.html">
 			                <a href="4/orientovni_navchalni_normatyvy.html">
 			                     Орієнтовні навчальні нормативи
@@ -243,16 +233,6 @@
 			            <li class="chapter " data-level="6" data-path="5/5_rik.html">
 			                <a href="5/5_rik.html">
 			                     5 рік вивчення
-			                </a>
-			            </li>
-			            <li class="chapter " data-level="7" data-path="5/6_rik.html">
-			                <a href="5/6_rik.html">
-			                     6 рік вивчення
-			                </a>
-			            </li>
-			            <li class="chapter " data-level="8" data-path="5/7_rik.html">
-			                <a href="5/7_rik.html">
-			                     7 рік вивчення
 			                </a>
 			            </li>
 			            <li class="chapter " data-level="9" data-path="5/orientovni_navchalni_normatyvy.html">
@@ -406,16 +386,6 @@
 			            <li class="chapter " data-level="6" data-path="8/5_rik.html">
 			                <a href="8/5_rik.html">
 			                     5 рік вивчення
-			                </a>
-			            </li>
-			            <li class="chapter " data-level="7" data-path="8/6_rik.html">
-			                <a href="8/6_rik.html">
-			                     6 рік вивчення
-			                </a>
-			            </li>
-			            <li class="chapter " data-level="8" data-path="8/7_rik.html">
-			                <a href="8/7_rik.html">
-			                     7 рік вивчення
 			                </a>
 			            </li>
 			            <li class="chapter " data-level="9" data-path="8/orientovni_navchalni_normatyvy.html">
