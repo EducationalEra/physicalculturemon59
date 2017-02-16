@@ -215,68 +215,6 @@
 <td align="center">2</td>
 <td align="center">3</td>
 </tr>
-<tr class="even">
-<td rowspan="4" align="center"><b>6 рік вивчення</b></td>
-<td rowspan="2">Передачі м’яча в стіну з відстані 3 м (кількість передач за 30 с)</td>
-<td align="center">Хл.</td>
-<td align="center">15</td>
-<td align="center">16</td>
-<td align="center">17</td>
-<td align="center">18</td>
-</tr>
-<tr class="odd">
-<td align="center">Дівч.</td>
-<td align="center">11</td>
-<td align="center">12</td>
-<td align="center">13</td>
-<td align="center">15</td>
-</tr>
-<tr class="even">
-<td rowspan="2">Штрафний кидок з відстані 7 м у верхні кути воріт (з 5-ти спроб, кількість влучних кидків)</td>
-<td align="center">Хл.</td>
-<td align="center">1</td>
-<td align="center">2</td>
-<td align="center">3</td>
-<td align="center">4</td>
-</tr>
-<tr class="odd">
-<td align="center">Дівч.</td>
-<td align="center">Жодного влучного кидка</td>
-<td align="center">1</td>
-<td align="center">2</td>
-<td align="center">3</td>
-</tr>
-<tr class="even">
-<td rowspan="4" align="center"><b>7 рік вивчення</b></td>
-<td rowspan="2">Передача гандбольного м’яча на дальність в коридор 2,5 м (м)</td>
-<td align="center">Хл.</td>
-<td align="center">14</td>
-<td align="center">15</td>
-<td align="center">16</td>
-<td align="center">17</td>
-</tr>
-<tr class="odd">
-<td align="center">Дівч.</td>
-<td align="center">12</td>
-<td align="center">13</td>
-<td align="center">14</td>
-<td align="center">15</td>
-</tr>
-<tr class="even">
-<td rowspan="2">Кидки м’яча з відстані 9 м в нижні кути воріт (з 5-ти спроб, кількість влучних кидків)</td>
-<td align="center">Хл.</td>
-<td align="center">1</td>
-<td align="center">2</td>
-<td align="center">3</td>
-<td align="center">4</td>
-</tr>
-<tr class="odd">
-<td align="center">Дівч.</td>
-<td align="center">Жодного влучного кидка</td>
-<td align="center">1</td>
-<td align="center">2</td>
-<td align="center">3</td>
-</tr>
 </tbody>
 </table>
 
